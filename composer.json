@@ -8,6 +8,7 @@
     "process-timeout": 0
   },
   "require": {
+    "pimcore/data-hub": "^1.5",
     "pimcore/pimcore": "^10.5"
   },
   "require-dev": {
